@@ -1,0 +1,23 @@
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\CounterScope.exe.config
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\CounterScope.exe
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\CounterScope.pdb
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.Form1.resources
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.Properties.Resources.resources
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.TeamTrack.resources
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.csproj.GenerateResource.Cache
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.exe
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.pdb
+C:\Users\fullsail\Documents\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.csprojResolveAssemblyReference.cache
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\CounterScope.exe.config
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\CounterScope.exe
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\CounterScope.pdb
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\HtmlAgilityPack.dll
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\HtmlAgilityPack.pdb
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\bin\Release\HtmlAgilityPack.xml
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.Form1.resources
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.Properties.Resources.resources
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.TeamTrack.resources
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.csproj.GenerateResource.Cache
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.exe
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.pdb
+F:\Dropbox\Fullsail Backup\Experiments\CounterScope\CounterScope\CounterScope\obj\Release\CounterScope.csprojResolveAssemblyReference.cache
